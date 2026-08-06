@@ -54,4 +54,4 @@
   path = CATChem
   url = https://github.com/benkozi/CATChem
 ;   tdk: correct branch
-  branch = feat/rework-resolve-conflicts
+  branch = feat/rework-benkozi
